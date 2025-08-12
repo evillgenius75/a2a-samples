@@ -17,6 +17,3 @@ dependencies = [
     "a2a-sdk>=0.3.0",
     "litellm",
 ]
-
-[tool.uv.sources]
-a2a-samples = { workspace = true }
